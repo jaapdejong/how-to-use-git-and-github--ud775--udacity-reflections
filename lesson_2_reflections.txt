@@ -1,0 +1,7 @@
+commit message:
+	write as if is it a command:
+		Add fileX and fileY
+	instead of
+		fileX and fileY added
+		
+		
